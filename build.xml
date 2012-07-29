@@ -1,5 +1,5 @@
 <project default="build">
   <target name="build">
-    <echo>Hello from JUC Tokyo ng</echo>
-ng  </target>
+    <echo>Hello from JUC Tokyo fix</echo>
+  </target>
 </project>
